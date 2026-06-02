@@ -4,4 +4,6 @@ Understanding the Indian consumer sustainable product purchasing behaviour using
 ## Libraries used
 1. Pandas
 2. Semopy
+3. Numpy
+4. Scikit Learn
 
