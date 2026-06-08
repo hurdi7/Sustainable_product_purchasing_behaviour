@@ -6,4 +6,3 @@ Understanding the Indian consumer sustainable product purchasing behaviour using
 2. Semopy
 3. Numpy
 4. Scikit Learn
-5. 
